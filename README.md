@@ -42,7 +42,7 @@ Please make sure to update tests as appropriate.
 
 ---
 
-## License
+## 📝 License
 
 
 &copy; 2022+ Cristian Brinza and [contributors](https://github.com/CristianBrinza/c-project/graphs/contributors) | **C-Project** is licensed under the [MIT License](https://github.com/CristianBrinza/c-project/blob/main/LICENSE).
