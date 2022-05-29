@@ -40,7 +40,7 @@ Please make sure to update tests as appropriate.
 
 ## 🍵 Support
 
----
+support
 
 ## 📝 License
 
