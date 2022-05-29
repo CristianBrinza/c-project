@@ -1,10 +1,11 @@
 {
   "name": "c-project",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\">C-Project </h1>",
+  "description": "C-Project",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
+    "start": "tsc --watch",
     "test": "jest --config jestconfig.json",
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
@@ -26,8 +27,12 @@
     "url": "https://github.com/CristianBrinza/c-project/issues"
   },
   "homepage": "https://github.com/CristianBrinza/c-project#readme",
+  "peerDependencies": {
+    "react": "16.8.1"
+  },
   "devDependencies": {
     "@types/jest": "^27.5.1",
+    "@types/react": "^18.0.9",
     "jest": "^28.1.0",
     "prettier": "^2.6.2",
     "ts-jest": "^28.0.3",
