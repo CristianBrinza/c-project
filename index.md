@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<h1 align="center">C-Project </h1>
 
-You can use the [editor on GitHub](https://github.com/CristianBrinza/c-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 📦 Installation
 
-### Markdown
+Use the package manager [yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable) or [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install library.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://www.npmjs.com/package/c-project"></a>
+Install via <a href="https://www.npmjs.com/package/c-project">NPM</a>
+```
+npm install c-project
+```
+Install via <a href="https://yarnpkg.com/package/c-project">Yarn</a>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+yarn add c-project
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## 🧾 Documentation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CristianBrinza/c-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## ⭐ Features
+
+- Fully customizable components using variables.
+- High-quality and performant components.
+- 100% Open Source.
+## 💡 Usage
+
+## 🔥 Motivation
+
+## ❤ Contributing
+
+- To contribute, see the [Contributing guide](https://github.com/CristianBrinza/c-project/blob/main/CONTRIBUTING.md).
+- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+## 🍵 Support
+
+support
+
+## 📝 License
+
+
+&copy; 2022+ Cristian Brinza and [contributors](https://github.com/CristianBrinza/c-project/graphs/contributors) | **C-Project** is licensed under the [MIT License](https://github.com/CristianBrinza/c-project/blob/main/LICENSE).
+
